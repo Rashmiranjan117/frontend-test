@@ -43,4 +43,11 @@ Technologies used in the project:
 
 ## 🚀 Demo
 
-** Front End Deployed Url **
+**Front End Deployed Url:**
+https://resplendent-profiterole-31bc3f.netlify.app/
+
+**Server Url:**
+https://mock-4-api-ntyy.onrender.com/recipe
+
+
+
