@@ -1,0 +1,17 @@
+.nav_container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  height: 100px;
+  justify-content: space-around;
+  align-items: center;
+  /* border: 1px solid red; */
+  background-color: #181823;
+  color: #E9F8F9;
+}
+
+
+.text_color{
+  color: #181823;
+}
