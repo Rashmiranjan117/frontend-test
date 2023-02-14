@@ -22,22 +22,22 @@ Technologies used in the project:
 
 ![homepage](https://user-images.githubusercontent.com/107473816/218761561-3bf1e6b1-3672-4f8d-b7c8-f8b789dd384b.jpg)
 
-** Sign up ** 
+**Sign up** 
 ![signup](https://user-images.githubusercontent.com/107473816/218761638-db0447bc-94f4-4331-aabb-77b4646a06e5.jpg)
 
 
-** Saved Items **
+**Saved Items**
 
 ![saved-ittems](https://user-images.githubusercontent.com/107473816/218761754-be9fb9b7-f4de-4691-955b-951bce680f96.jpg)
 
-** Indivisual items ** 
+**Indivisual items** 
 ![indivisual-item](https://user-images.githubusercontent.com/107473816/218761866-5aed8dd5-7408-4fe0-8e5c-0af9db3fbcef.jpg)
 
-** Account Details **
+**Account Details**
 ![account-details](https://user-images.githubusercontent.com/107473816/218762000-ec200b72-efd6-4ca4-96dd-e836bc0654bd.jpg)
 
 
-** Logout Functionality **
+**Logout Functionality**
 
 ![logout](https://user-images.githubusercontent.com/107473816/218762113-428f7c51-50fd-45d9-9b98-f7b68d04bf3c.jpg)
 
